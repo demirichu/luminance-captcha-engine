@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+files/attacks/*.png
+files/raw_data/*.dat
+files/*.npz
+files/*.png
+files/*.pth
+files/*.pt
+captcha/files/*.onnx
+*.log
+runs/
+
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.npz
+*.dat
+*.mp4
+*.png
+
+# Target-specific private loaders
+game_dataset_loader.py

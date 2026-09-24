@@ -1,0 +1,8 @@
+numpy
+kornia
+onnx
+onnxruntime
+onnxsim
+onnxscript
+Pillow
+pytest
